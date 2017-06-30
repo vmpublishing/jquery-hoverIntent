@@ -1,4 +1,5 @@
-/*!
+/**
+ * @license
  * hoverIntent v1.8.1 // 2014.08.11 // jQuery v1.9.1+
  * http://briancherne.github.io/jquery-hoverIntent/
  *
