@@ -1,0 +1,10 @@
+{
+  "name": "jquery-hoverintent",
+  "version": "0.9.0",
+  "description": "own repository for versioning and package.json",
+  "repository": "git@github.com:vmpublishing/jquery-hoverIntent.git",
+  "license": "MIT",
+  "peerDependencies": {
+    "jquery": ">=1.7.0"
+  }
+}
